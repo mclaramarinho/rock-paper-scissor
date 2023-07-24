@@ -21,7 +21,6 @@ Singleplayer Rock-paper-scissor game. Made with HTML, CSS and JS.
 
 ## FUTURE UPDATES
 - Mobile Responsiveness [done]
-- Dual-player
 - Improve design [done]
 
 ## AUTHOR
