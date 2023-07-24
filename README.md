@@ -15,21 +15,17 @@ Singleplayer Rock-paper-scissor game. Made with HTML, CSS and JS.
 
 
 ## SCREENSHOTS
-![image](https://github.com/mclaramarinho/rock-paper-scissor-singleplayer/assets/119897667/989eb4b2-84c1-42ba-8d76-f06c98b3368f)
-![image](https://github.com/mclaramarinho/rock-paper-scissor-singleplayer/assets/119897667/abcbf1bb-6491-490e-9ee9-6d4c6ac4f739)
-![image](https://github.com/mclaramarinho/rock-paper-scissor-singleplayer/assets/119897667/c78078a3-548e-4266-b812-df6101603eca)
 
 
 ## BUILT WITH
  - HTML
  - CSS
  - Javascript
-No frameworks used.
 
 ## FUTURE UPDATES
 - Mobile Responsiveness [done]
 - Dual-player
-- Improve design
+- Improve design [done]
 
 ## AUTHOR
 - Clara Marinho
