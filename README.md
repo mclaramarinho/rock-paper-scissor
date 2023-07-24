@@ -12,6 +12,8 @@ Singleplayer Rock-paper-scissor game. Made with HTML, CSS and JS.
 ![image](https://github.com/mclaramarinho/rock-paper-scissor/assets/119897667/ea107512-3c2b-4d2c-a7fb-e88d951ae70b)
 ![image](https://github.com/mclaramarinho/rock-paper-scissor/assets/119897667/f235714c-18ba-40f9-ab8f-74dbbb53aa8f)
 ![image](https://github.com/mclaramarinho/rock-paper-scissor/assets/119897667/64f6700d-eaac-43e3-a3f6-4d5a6b25fa94)
+![image](https://github.com/mclaramarinho/rock-paper-scissor/assets/119897667/06534856-fbca-4887-986e-7b76029f9e71)
+![image](https://github.com/mclaramarinho/rock-paper-scissor/assets/119897667/84749d19-5391-48cc-8121-0af1564cdfab)
 
 
 ## BUILT WITH
